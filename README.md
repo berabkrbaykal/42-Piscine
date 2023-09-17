@@ -1,37 +1,55 @@
-# 42-Piscine
+42-Piscine
 
-# Baykal
- My solutions for the August Piscine 2023. <br />
-  Please open an issue on github if you find anything incorrect.<br/>
-  If you have any tips I would like to hear, any feedback is appreciated. Thank you. <br/>
- `Don't Copy, Learn.` <br />
+Baykal
 
-# READ THIS BEFORE YOU PASS THE EXAM <br/>
-### **Logging into and setting up an exam** <br/>
-1-Login with exam / exam at the login screen <br/>
-2-Open a terminal and type kinit username and your password after the prompt <br />
-3-Type examshell in a terminal to begin <br /> 
-### **During the exam** <br />
-1-Don't forget to clean up, comment, remove your testing code execs, and libraries prior to submission <br />
-2-Don't forget to push your code regularly in the rendu/<test question> directory to vogsphere before typing grademe and y in the examshell terminal <br />
-3-Read through all of the subjects and examples again before final submission <br />
-### **Before Exams** <br />
-1- You should Learn Functions Loops Condition Arrays  Strings before exam 00 <br />
-2- You should Learn argc & argv & malloc and free before exam01/exam02 <br />
-3- You Should Learn Makefile Library Header Pointers-Functions before final exam <br />
-**You need 25 points to validate any exam** <br />
-**You need 50 points to validate the days except rushes and bsq and C09 and C10 which it need 100%** 
-# Piscine tips <br />
-### **Week1:** Shell00, Shell01, C00, C01 <br />
--don't waste your time on shell01 project, you must learn language C and work on C00 and C01, because the exam is on c Language. <br />
--validate Shell01 on weekend and work on this rush because is so easy. <br />
-### **Week2:** C02, C03, C04, C06 <br />
--it's better to validate C06 before C05, because the exam01 is on argc & argv. <br />
--Dont waste your time on rush01, it's better to work on your days and prepare for exam on weekends and know your mistakes that you made on the previous exams. <br />
-### **Week3:** C05, C07, C08, C09 <br />
--try to improve your code skills and your algorithms. <br />
-### **Week4:** C11 <br />
--don't waste your time on rush02 and BSQ and C10, it's better to validate the previous days with 100% and prepare for the final exam. <br />
-`SLEEP WELL + EAT WELL = LIVE WELL + SUCCESS` <br />
- 
-`Enjoy coding and GOOD LUCK in your piscine.`
+Ağustos Piscine 2023 için çözümlerim. 
+Yanlış bir şey bulursanız lütfen github'da bir sorun açın.
+Duymak istediğim herhangi bir ipucunuz varsa, her türlü geri bildirim takdir edilir. Teşekkür ederim. 
+Kopyalamayın, Öğrenin. 
+
+SINAVI GEÇMEDEN ÖNCE BUNU OKUYUN 
+
+Bir sınava giriş yapma ve sınavı ayarlama 
+
+1-Giriş ekranında sınav/sınav ile giriş yapın 
+2-Bir terminal açın ve komut isteminden sonra kinit kullanıcı adı ve şifrenizi yazın 
+3-Başlamak için bir terminalde examshell yazın 
+
+Sınav sırasında 
+
+1-Göndermeden önce test kodlarınızı ve kütüphanelerinizi temizlemeyi, yorumlamayı ve kaldırmayı unutmayın 
+2-Samshell terminalinde grademe ve y yazmadan önce rendu/ dizinindeki kodunuzu düzenli olarak vogsphere'e itmeyi unutmayın 
+3-Son teslimden önce tüm konuları ve örnekleri tekrar okuyun 
+
+Sınavlardan Önce 
+
+1- Sınavdan önce Fonksiyonları Döngüleri Koşul Dizilerini Dizeleri Öğrenmelisiniz 00 
+2- Sınav01/sınav02'den önce argc & argv & malloc ve free öğrenmelisiniz 
+3- Final Sınavından Önce Makefile Kütüphanesi Header Pointers-Functions'ı Öğrenmelisiniz 
+Herhangi bir sınavı geçerli kılmak için 25 puana ihtiyacınız var 
+100'e ihtiyaç duyduğu acele ve bsq ile C09 ve C10 hariç günleri doğrulamak için 50 puana ihtiyacınız var
+
+Piscine ipuçları 
+
+1. Hafta Shell00, Shell01, C00, C01 
+
+-Shell01 projesinde zamanınızı boşa harcamayın, C dilini öğrenmeli ve C00 ve C01 üzerinde çalışmalısınız, çünkü sınav c dili üzerinedir. 
+-Shell01'i hafta sonu doğrulayın ve bu acele üzerinde çalışın çünkü çok kolay. 
+
+2. Hafta: C02, C03, C04, C06 
+
+-C06'yı C05'ten önce doğrulamak daha iyidir, çünkü sınav01 argc ve argv üzerinedir. 
+-Zamanınızı acele01 ile harcamayın, günlerinizde çalışmak ve hafta sonları sınava hazırlanmak ve önceki sınavlarda yaptığınız hataları bilmek daha iyidir. 
+
+3. Hafta: C05, C07, C08, C09 
+
+-Kod becerilerinizi ve algoritmalarınızı geliştirmeye çalışın. 
+
+4. Hafta: C11 
+
+-Rush02, BSQ ve C10 ile zamanınızı boşa harcamayın, önceki günleri %100 ile doğrulamak ve final sınavına hazırlanmak daha iyidir. 
+İYİ UYU + İYİ BESLEN = İYİ YAŞA + BAŞARI 
+
+Kodlamanın keyfini çıkarın ve piscine'inizde İYİ ŞANSLAR.
+
+Translated with www.DeepL.com/Translator (free version)
