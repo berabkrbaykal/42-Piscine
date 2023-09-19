@@ -19,9 +19,12 @@ int	ft_is_prime(int nb)
 	if (nb <= 1)
 		return (0);
 	value = 2;
-	while (nb % value == 0)
+	while (value < nb && nb > 2)
 	{
-		return (0);
+		if (nb % 2 == 0)
+			return (0);
+		else if (nb % value == 0)
+			return (0);
 		value++;
 	}
 	return (1);
